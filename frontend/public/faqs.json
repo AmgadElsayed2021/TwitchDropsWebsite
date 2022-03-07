@@ -1,0 +1,22 @@
+[
+    {
+        "question" : "What are twitch drops?",
+        "answer" : "Twitch drops area fun way to get in-game loot just for watching your favourite channels on Twitch! To be eligible, you must connect your Twitch account and meet the drop requirement. Once earned and claimed, link your Twitch and Steam accounts to recieve the rewards in-game."
+    },
+    {
+        "question" : "Which streams do I need to watch to get drops?",
+        "answer" : "Every broadcast in the Project Winter category that has enabled Drops will count towards meeting the requirement."
+    },
+    {
+        "question" : "How do I get my reward?",
+        "answer" : "Once you've earned the Drop on Twitch you can click \"Claim\" from within the chat."
+    },
+    {
+        "question" : "How will it take to recieve my drop?",
+        "answer" : "Drops will usually appear in-game within 24 hours."
+    },
+    {
+        "question" : "I have another question.",
+        "answer" : "More information can be found on Twitch's Drops help page."
+    }
+]

@@ -1,0 +1,131 @@
+[
+  {
+      "start_date": "2022-01-01",
+      "end_date": "2022-04-01",
+      "name": "Winter Fever Drops",
+      "drops": [
+          { "streamer_name" : "CoachStock",
+            "item_name": "Pink Hair",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_PinkHair.png",
+            "itemdefid": 1535,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Beach Bag (Blue)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Backpack_BeachBlue_Sum.png",
+            "itemdefid": 1807,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Red Visor",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_VisorPoker.png",
+            "itemdefid": 532,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Skidoo Helmet (Black)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_SkidooHelmetBlack.png",
+            "itemdefid": 829,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Parisian Scarf (White)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_ScarfParisianWhite_SS.png",
+            "itemdefid": 901,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Safety Boots (Orange)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_PantsSafetyOrange_SS.png",
+            "itemdefid": 1067,
+            "unlock_condition": "15 minutes"
+          }
+      ]
+  },
+  {
+      "start_date": "2022-04-01",
+      "end_date": "2022-06-01",
+      "name": "Spring Blast Drops",
+      "drops": [
+          { "streamer_name" : "CoachStock",
+            "item_name": "Traitor Backpack",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_PatternBackpackTraitor_SS.png",
+            "itemdefid": 594,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Fishermans Pants",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_PantsFisherman_SS.png",
+            "itemdefid": 1009,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Gold Boots",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_LongBootsGold_SS.png",
+            "itemdefid": 651,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Trench Coat (Black)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Jacket_TrenchCoatBlack_SS.png",
+            "itemdefid": 829,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Overalls (Blue)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Jacket_OverallsBlue_SS.png",
+            "itemdefid": 1773,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Pirate's Coat (Red)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Jacket_PirateRed_SS.png",
+            "itemdefid": 1803,
+            "unlock_condition": "15 minutes"
+          }
+      ]
+  },
+  {
+      "start_date": "2021-07-01",
+      "end_date": "2021-09-01",
+      "name": "Summer Blast Drops",
+      "drops": [
+          { "streamer_name" : "CoachStock",
+            "item_name": "Jester's Jacket (Silver)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Jacket_JesterSilver_SS.png",
+            "itemdefid": 1856,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Gnarly Jacket (Gold)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Jacket_GnarlyGold_SS.png",
+            "itemdefid": 1338,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "White Wolf Hoodie",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_HoodieWolfWhite.png",
+            "itemdefid": 756,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Hypnotize Glasses",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_HypnotizeGlasses_SS.png",
+            "itemdefid": 940,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Black Hockey Helmet",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_HelmetHockeyBlack_SS.png",
+            "itemdefid": 842,
+            "unlock_condition": "15 minutes"
+          },
+          { "streamer_name" : "CoachStock",
+            "item_name": "Tricorne Hat (Silver)",
+            "item_icon": "https://projectwinter.co/steam_inventory/i_Hat_TricorneSilver_SS.png",
+            "itemdefid": 1799,
+            "unlock_condition": "15 minutes"
+          }
+      ]
+  } 
+] 

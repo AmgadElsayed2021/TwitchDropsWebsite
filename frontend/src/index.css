@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #080808eb;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.navWhite {
+  padding: 3px 10px;
+  width: 1fr;
+}
+.NavBarCont {
+  background-color: #232050;
+}
+
+@media only screen and (max-width: 400px) {
+  .navWhite {
+    display: flex;
+    flex-direction: column;
+  }
+}
+.Heading {
+  color: white;
+  font-size: 30px;
+}
+.dropsCont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.dropContainer {
+  margin: 2.5%;
+  border: 5px solid white;
+  box-shadow: 3px 8px 34px -8px rgb(122 101 105);
+  height: 528px;
+  width: 300px;
+  justify-content: space-between;
+  border-radius: 18% 0% 0%;
+  -webkit-border-radius: 18% 0% 0%;
+  -moz-border-radius: 18% 0% 0%;
+  -ms-border-radius: 18% 0% 0%;
+  -o-border-radius: 18% 0% 0%;
+  color: white;
+}
+#btn1 {
+  width: 347px;
+  display: block;
+}
+#btn2 {
+  width: 347px;
+  display: block;
+}
+/* hr {
+  color: #d135af;
+} */
+/* .dropContainer Image {
+  padding: 5px;
+} */
+/* .dropContainer :hover {
+  transform: translateY(-20px);
+  -webkit-transform: translateY(-20px);
+  -moz-transform: translateY(-20px);
+  -ms-transform: translateY(-20px);
+  -o-transform: translateY(-20px);
+} */
+
+/* .timer-header {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+} */
+
+/* .timer-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
+} */
+
+
+.footer {
+  position:relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  text-align: center;
+  background-color: #232050;
+}
+
+.bg-snow {
+  background-image: url("/public/images/snow_falling.png");
+  background-position: center;
+  background-size: cover;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+* {
+  box-sizing: border-box;
+}
+
+/* body {
+  font-family: "Lato", sans-serif;
+} */
+
+/* h1 {
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+} */
+
+.countdown-item {
+  color: white;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 30px;
+  position: relative;
+}
+
+.countdown-item span {
+  color: white;
+  font-size: 12px;
+
+  text-transform: uppercase;
+}
